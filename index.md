@@ -1,7 +1,9 @@
 ![Gabrielle Wang's profile picture](https://github.com/gaw004/Lab1/blob/main/profile_pic)
 
-#Gabrielle Wang
+# Gabrielle Wang
 Mathematics-Computer Science Student at UCSD
+
+![Gabrielle Wang's profile picture](https://github.com/gaw004/Lab1/blob/main/profile_pic)
 
 ## About Me
 I am a programmer and student focused on **Mathematics** and **Computer Science**. My primary career goal is to become a *Cloud Infrastructure Engineer* at a major tech company.
